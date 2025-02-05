@@ -1,3 +1,8 @@
+-=(AY-3-8500_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [AY-3-8500 "Pong-on-a-chip"](https://en.wikipedia.org/wiki/AY-3-8500) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 Creation and port to MiSTer by Cole Johnson  
