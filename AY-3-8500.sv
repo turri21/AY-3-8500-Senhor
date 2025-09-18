@@ -87,7 +87,7 @@ module emu
 	output        FB_PAL_WR,
 `endif
 `endif
-
+   output        LED,
 	output        LED_USER,  // 1 - ON, 0 - OFF.
 
 	// b[1]: 0 - LED status is system status OR'd with b[0]
